@@ -1,3 +1,3 @@
-# Cortico.ca Knowledge Base
-A GH-hosted Jekyll blog to serve as the knowledge base for Cortico medical booking and telehealth software.
+# Cortico.ca Static Site
+An open source, GitHub hosted Jekyll blog to serve static files and assets for Cortico medical booking and telehealth software.
 
